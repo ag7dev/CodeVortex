@@ -1,6 +1,6 @@
 # CodeVortex 🌀
 
-**CodeVortex** is a powerful Windows-based tool for process injection. It allows you to allocate memory in a target process and inject a copy of the current process's executable into that memory space. By utilizing direct system calls such as `NtOpenProcess`, `NtAllocateVirtualMemory`, `NtWriteVirtualMemory`, and `NtCreateThreadEx`, it performs seamless injection and execution of code within the remote process. This project demonstrates the use of low-level Windows APIs for effective code injection.
+**CodeVortex** is a powerful Windows-based tool for process injection. It allows you to allocate memory in a target process and inject a copy of the current process's executable into that memory space. By utilizing direct system calls such as `NtOpenProcess`, `NtAllocateVirtualMemory`, `NtWriteVirtualMemory`, and `NtCreateThreadEx`, it performs seamless injection and execution of code within the remote process. 
 
 ## Key Features 🔑
 
